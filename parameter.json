@@ -21,7 +21,7 @@
       "value": "GET-DEPLOYMENT-ID"
     },
     "InstallCloudLabsShadow": {
-      "value": "yes"
+      "value": "No"
     }
   }
 }
